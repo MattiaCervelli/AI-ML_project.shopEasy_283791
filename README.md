@@ -1,7 +1,5 @@
-# AI-ML_project
+# ShopEasy AI/ML project
 
-# AI-ML_project
-### Project 2 - ShopEasy Customer Segmentation
 # Chiara Baldoni, Mattia Cervelli, Paola Pinna 
 
 ### Libraries used:
