@@ -1,6 +1,5 @@
-# AI-ML_project
+# ShopEasy Project
 
-# AI-ML_project
 ### Project 2 - ShopEasy Customer Segmentation
 # Chiara Baldoni, Mattia Cervelli, Paola Pinna 
 
